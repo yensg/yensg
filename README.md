@@ -31,7 +31,7 @@ Full-stack property listing and appointment system enabling buyers and sellers t
 
 ---
 
-### 🎮 [Gamemonger](https://github.com/yensg/Gamemonger)
+### 🎮 [Gamemonger](https://github.com/yensg/Project_3_Gamemonger)
 **Tech:** MERN Stack + Stripe + RAWG API  
 Game discovery and e-commerce platform with JWT authentication and secure checkout.
 
@@ -41,7 +41,7 @@ Game discovery and e-commerce platform with JWT authentication and secure checko
 
 ---
 
-### 💹 [Crypto Tracker](https://github.com/yensg/CryptoTracker)
+### 💹 [Crypto Tracker](https://github.com/yensg/project_2_crypto)
 **Tech:** React + Chart.js + Airtable  
 Crypto portfolio tracker with real-time API updates and rich visual analytics.
 
