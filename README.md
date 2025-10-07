@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yen Lim
 
-🚀 **Full-Stack Software Engineer | Real-Estate Tech Entrepreneur | Ex-Apple & Nestlé Leader**
+🚀 **Full-Stack Software Engineer | Real-Estate Strategist | Ex-Apple & Nestlé Leader**
 
-I build scalable, data-driven web applications using **React, Flask, and PostgreSQL**, combining deep business strategy experience with hands-on technical execution. Passionate about real-estate technology, automation, and creating digital products that deliver measurable ROI.
+I build scalable, data-driven web applications using **React, Flask, and PostgreSQL**, combining deep business strategy experience with hands-on technical execution. Passionate about technology, automation, and creating digital products that deliver measurable ROI.
 
 ---
 
