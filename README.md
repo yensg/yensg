@@ -24,6 +24,7 @@ I build scalable, data-driven web applications using **React, Flask, and Postgre
 **Tech:** React + Flask + Supabase + Cloudinary  
 Full-stack property listing and appointment system enabling buyers and sellers to connect seamlessly.
 
+- 📱 Mobile-first responsive design, optimized for phone use but fully functional on desktop as well
 - 🔒 JWT authentication, CRUD API with Flask & PostgreSQL  
 - 📅 Interactive booking calendar (Day/Month views)  
 - ☁️ Cloudinary image uploads with preview & secure folders  
