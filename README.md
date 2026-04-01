@@ -8,8 +8,8 @@ I build scalable, data-driven web applications using **React, Flask, and Postgre
 
 ## 🧩 Technical Stack
 
-**Languages:** JavaScript, Python, SQL, HTML, CSS  
-**Frameworks:** React.js, Express.js, Flask  
+**Languages:** JavaScript, Python, SQL, HTML, CSS, Typescript  
+**Frameworks:** React.js, Express.js, Flask, Kernel  
 **Auth:** JWT, bcrypt  
 **Databases:** MongoDB, PostgreSQL  
 **Libraries & Tools:** TanStack Query, Chart.js, Express-Validator, Stripe, Shadcn UI  
