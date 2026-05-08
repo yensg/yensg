@@ -110,9 +110,9 @@ Software Engineering Bootcamp (Jul–Sep 2025)
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yen%20Lim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yenlim)
-[![GitHub](https://img.shields.io/badge/GitHub-yensg-black?style=flat-square&logo=github)](https://github.com/yensg)
-[![Email](https://img.shields.io/badge/Email-Limyenleong%40gmail.com-red?style=flat-square&logo=gmail)](mailto:Limyenleong@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yen%20Lim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yenlim)<br>
+[![GitHub](https://img.shields.io/badge/GitHub-yensg-black?style=flat-square&logo=github)](https://github.com/yensg)<br>
+[![Email](https://img.shields.io/badge/Email-Limyenleong%40gmail.com-red?style=flat-square&logo=gmail)](mailto:limyenleong@gmail.com)
 
 ---
 
