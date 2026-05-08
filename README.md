@@ -110,19 +110,6 @@ Software Engineering Bootcamp (Jul–Sep 2025)
 
 ## 🌐 Connect with Me
 
-* [LinkedIn – Yen Lim](https://www.linkedin.com/in/yenlim?utm_source=chatgpt.com)
-* [GitHub – yensg](https://github.com/yensg?utm_source=chatgpt.com)
-* Email: [Limyenleong@gmail.com](mailto:Limyenleong@gmail.com)
-
----
-
-![Yen’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=yensg\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yensg\&layout=compact\&theme=radical)
-
-
-## 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yen%20Lim-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yenlim)
 [![GitHub](https://img.shields.io/badge/GitHub-yensg-black?style=flat-square&logo=github)](https://github.com/yensg)
 [![Email](https://img.shields.io/badge/Email-Limyenleong%40gmail.com-red?style=flat-square&logo=gmail)](mailto:Limyenleong@gmail.com)
